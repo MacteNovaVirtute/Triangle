@@ -1,11 +1,6 @@
 package com.company;
 
 
-import java.math.BigDecimal;
-import java.util.HashSet;
-import java.util.LinkedHashSet;
-import java.util.TreeSet;
-
 public class Triangles {
 
     public static void main(String[] args) {
